@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": "hk-code-block",
+        "name": "HK Code Block",
+        "author": "Heekang Park",
+        "description": "Improve the display of code blocks in reading view with titles, line numbers, line highlights, and more.",
+        "repo": "HeekangPark/obsidian-hk-code-block"
+    }
+]
