@@ -19,5 +19,12 @@
         "author": "Acylation",
         "description": "Providing chemistry supports. Rendering SMILES strings into chemistry structures.",
         "repo": "Acylation/obsidian-chem"
+    },
+    {
+        "id": "tag-links",
+        "name": "Tag Links",
+        "author": "Zacchary Dempsey-Plante",
+        "description": "Open tags as links using a hotkey.",
+        "repo": "zedseven/obsidian-tag-links"
     }
 ]
