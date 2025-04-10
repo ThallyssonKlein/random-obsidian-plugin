@@ -26,5 +26,12 @@
         "author": "Zacchary Dempsey-Plante",
         "description": "Open tags as links using a hotkey.",
         "repo": "zedseven/obsidian-tag-links"
+    },
+    {
+        "id": "new-note-fixer",
+        "name": "New Note Fixer",
+        "author": "mnaoumov",
+        "description": "Unifies the way non-existing notes are created when clicking on their links.",
+        "repo": "mnaoumov/obsidian-new-note-fixer"
     }
 ]
